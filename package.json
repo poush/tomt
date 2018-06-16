@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ask-sdk": "^2.0.0",
+    "datamuse": "^1.0.5"
+  }
+}
