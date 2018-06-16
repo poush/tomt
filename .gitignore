@@ -5,5 +5,5 @@ jspm_packages
 # Serverless directories
 test.js
 .serverless/
-
+logs/test_files
 .DS_Store
